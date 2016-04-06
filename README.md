@@ -3,7 +3,7 @@
 This is an easy way to generate geojson adn mbtiles for relation which contain `boundary=administrative` and `admin_level=6`.
 
 
-### Install requirement apps
+### Install requirements
 
 ```
 ./install.sh
